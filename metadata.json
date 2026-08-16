@@ -1,0 +1,6 @@
+{
+  "name": "MicroStore - Free Instagram Business Store",
+  "description": "Create a free mobile online store for Instagram and WhatsApp sellers, showcase products, receive instant WhatsApp orders, and manage branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
